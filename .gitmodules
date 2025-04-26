@@ -1,0 +1,8 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+	commit-id = 4806a1924ff6181180bf5e4b8b79ab4394118875
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
+	commit-id = 7b6aead9fb88b3623e3b3725ebb42670cbe4c579
