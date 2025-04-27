@@ -1,4 +1,4 @@
-# ImGui + GLFW Cmake example
+# ImGui OpenGL3 + GLFW Cmake example
 
 Linux and Windows
 ```
